@@ -1,0 +1,1 @@
+eureka-server:9090
