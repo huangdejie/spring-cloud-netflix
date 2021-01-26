@@ -16,6 +16,11 @@ public class OrderController implements OrderServiceClient {
 
     @Override
     public String orders() {
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         return "Return All Orders";
     }
 

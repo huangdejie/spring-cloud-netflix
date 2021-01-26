@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="config-server" />
         <module name="eureka-server" />
         <module name="order-service-api" />
+        <module name="config-server" />
         <module name="user-service-provider" />
         <module name="order-service-provider" />
+        <module name="hystrix-dashboard" />
       </profile>
     </annotationProcessing>
   </component>

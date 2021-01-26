@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/user-service/user-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/order-service/order-service-provider/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -1,0 +1,10 @@
+{
+  "custom": {
+    "property": {
+      "hello": "hello world"
+    }
+  },
+  "server": {
+    "port": "8888"
+  }
+}

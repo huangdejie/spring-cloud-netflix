@@ -1,0 +1,5 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+  com.cashbang.orderserviceprovider.sourceloader.JsonPropertySourceLocator
+
+org.springframework.boot.env.PropertySourceLoader=\
+  com.cashbang.orderserviceprovider.jsonloader.JsonPropertySourceLoader
